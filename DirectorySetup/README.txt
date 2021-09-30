@@ -1,0 +1,1 @@
+Either copy over the Terraform folder provided into Program Files, or use the .cmd provided to build it for you.
